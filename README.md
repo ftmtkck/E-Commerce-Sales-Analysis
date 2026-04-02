@@ -59,11 +59,6 @@ This project demonstrates my ability to:
 
 ---
 
-Future Improvements
-- Build an interactive dashboard using Streamlit  
-- Apply machine learning for sales prediction  
-- Add advanced visualizations with Plotly  
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  E-Ticaret Satış Analizi ve Görselleştirme
@@ -126,8 +121,3 @@ becerileri gösterilmiştir.
 
 ---
 
-## 📌 Gelecek Geliştirmeler
-
-- Streamlit ile interaktif dashboard geliştirme  
-- Satış tahmini için makine öğrenmesi modelleri  
-- Plotly ile daha gelişmiş görselleştirmeler  
