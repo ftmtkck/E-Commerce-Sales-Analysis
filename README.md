@@ -1,6 +1,6 @@
 ecommerce-sales-analysis-python
 
-Python (Pandas, Seaborn) kullanarak E-ticaret satış ve karlılık analizi projesi
+E-commerce sales and profitability analysis project using Python (Pandas, Seaborn)
 
 This project analyzes retail sales data to extract meaningful business insights and visualize key performance indicators.
 
