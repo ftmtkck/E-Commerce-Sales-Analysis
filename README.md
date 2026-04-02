@@ -61,8 +61,9 @@ This project demonstrates my ability to:
 ---
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
  E-Ticaret Satış Analizi ve Görselleştirme
+ 
+Python (Pandas, Seaborn) kullanarak E-ticaret satış ve karlılık analizi projesi.
 
 Bu projede perakende satış verileri analiz edilerek anlamlı iş çıktıları (insight) elde edilmiş ve temel performans göstergeleri görselleştirilmiştir.
 
